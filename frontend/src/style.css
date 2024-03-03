@@ -1,0 +1,15 @@
+.custom-button {
+    background-color: #87CEEB;
+    color: #fff;
+    /* Add any other desired styles */
+  }
+  
+
+/* Show the div */
+#myDiv {
+  display: block;
+}
+/* Hide the div */
+#myDiv {
+  display: none;
+}
